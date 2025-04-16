@@ -94,5 +94,3 @@ This project focuses on time series forecasting of Amazon's stock prices for 202
 
 - Incorporate additional features like macroeconomic indicators.
 - Automate hyperparameter tuning for all models.
-
-```
